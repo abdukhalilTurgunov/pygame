@@ -1,6 +1,6 @@
-# 🎮 Arkanoid Deluxe
+# 🎮 Arkanoid by Abdukhalil
 
-Arkanoid Deluxe is a classic-style arcade game built in Python using the Pygame library.
+Arkanoid by Abdukhalil is a classic-style arcade game built in Python using the Pygame library.
 The player controls a paddle to bounce the ball and break all the bricks on the screen.
 The game features various power-ups, lasers, shield mechanics, multi-ball, and more.
 
